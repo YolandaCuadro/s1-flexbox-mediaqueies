@@ -1,0 +1,21 @@
+.body-content {
+  background: lightgrey;
+  display:flex;
+  flex-direction: column;
+
+}
+
+nav {
+  background-color: chartreuse;
+}
+
+main {
+  background-color: yellow;
+}
+
+aside {
+background-color: gray;
+}
+img{
+  display: none;
+}
